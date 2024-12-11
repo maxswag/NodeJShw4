@@ -1,3 +1,5 @@
+//Code written by 325228781 מוחמד קעדאו 323932624 ו פיראס נגאר
+
 const fs = require("fs");
 
 function getOutPut(i, sentences) {
